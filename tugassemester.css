@@ -290,6 +290,7 @@ body {
 .contact .contact-content{
   display: flex;
   justify-content: center;
+  margin-top: 2rem;
 }
 
 .contact .contact-content iframe{
