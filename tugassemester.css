@@ -3,6 +3,8 @@
   --bg: #000;
 }
 
+
+
 * {
   text-decoration: none;
   color: white;
@@ -73,6 +75,7 @@ body {
 
 .icon {
   stroke: aliceblue;
+  cursor: pointer;
 }
 
 .icon:hover {
@@ -86,6 +89,7 @@ body {
 .detail {
   display: none;
 }
+
 
 /* main */
 .hero {
